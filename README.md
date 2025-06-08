@@ -52,4 +52,4 @@ Under the following terms:
 - Attribution — You must give appropriate credit.
 - NonCommercial — You may not use the material for commercial purposes.
 
-Full license: https://creativecommons.org/licenses/by-nc/4.0/
+Full license: https://creativecommons.org/licenses/by-nc/4.0/```
