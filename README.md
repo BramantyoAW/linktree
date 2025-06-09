@@ -35,6 +35,11 @@ npm install
 npm run dev
 
 
+cd frontend
+npm install
+npm run dev
+
+
 ## 📄 2. `LICENSE` – Creative Commons NonCommercial
 
 Letakkan juga di root folder:
