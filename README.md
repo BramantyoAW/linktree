@@ -35,11 +35,6 @@ npm install
 npm run dev
 
 
-cd frontend
-npm install
-npm run dev
-
-
 ## 📄 2. `LICENSE` – Creative Commons NonCommercial
 
 Letakkan juga di root folder:
@@ -58,3 +53,8 @@ Under the following terms:
 - NonCommercial — You may not use the material for commercial purposes.
 
 Full license: https://creativecommons.org/licenses/by-nc/4.0/```
+
+### 🔧 Frontend
+cd frontend
+npm install
+npm run dev
