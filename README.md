@@ -27,14 +27,12 @@ my-linksaas/
 ## 🚀 How to Run
 
 ### 🔧 Frontend &  Backend
-### 🔧 Backend
 ```bash
 cd frontend
 npm install
 npm run dev
 
 ### 🔧 Backend
-
 ```bash
 cd backend
 cp .env.example .env
