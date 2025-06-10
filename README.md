@@ -26,6 +26,12 @@ my-linksaas/
 
 ## 🚀 How to Run
 
+### 🔧 Frontend
+```bash
+cd frontend
+npm install
+npm run dev
+
 ### 🔧 Backend
 
 ```bash
@@ -53,8 +59,3 @@ Under the following terms:
 - NonCommercial — You may not use the material for commercial purposes.
 
 Full license: https://creativecommons.org/licenses/by-nc/4.0/```
-
-### 🔧 Frontend
-cd frontend
-npm install
-npm run dev
