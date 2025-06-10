@@ -26,7 +26,8 @@ my-linksaas/
 
 ## 🚀 How to Run
 
-### 🔧 Frontend
+### 🔧 Frontend &  Backend
+### 🔧 Backend
 ```bash
 cd frontend
 npm install
